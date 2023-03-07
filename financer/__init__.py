@@ -30,4 +30,3 @@ def main():
     file_path = Path(args.filepath)
 
     Financer.analyze(file_path)
-    
